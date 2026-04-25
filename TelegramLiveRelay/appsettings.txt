@@ -1,0 +1,11 @@
+ServerUrl=rtmps://dc1-1.rtmp.t.me/s/
+StreamKey=
+YoutubeUrl=
+CookiesFilePath=C:\Users\ADM\Desktop\PROJETOS\TESTE_PROJETOS\telegramlive\dist\TelegramLiveRelay\www.youtube.com_cookies.txt
+ResolutionOption=360p
+SizeOption=50%
+AudioQualityOption=Padrao
+RepeatEnabled=false
+Theme=Claro
+AccessGranted=false
+AccessPassword=
