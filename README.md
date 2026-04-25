@@ -40,4 +40,7 @@ Opcionalmente:
 
 O programa salva as configuracoes em `appsettings.txt`.
 
-Participe do grupo no Telegram: https://t.me/OFICINADEBOTS
+Participe do grupo no Telegram e faça o download do programa: https://t.me/OFICINADEBOTS
+
+<img width="850" height="712" alt="image" src="https://github.com/user-attachments/assets/d418ad31-54da-4cfe-bf2c-e230ce461ace" />
+
